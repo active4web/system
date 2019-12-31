@@ -1,0 +1,27 @@
+[14-Feb-2019 00:11:29 Africa/Cairo] PHP Fatal error:  Call to undefined function get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/admin/views/foods/meals.php on line 136
+[23-Feb-2019 04:23:47 Africa/Cairo] PHP Fatal error:  Cannot redeclare Teamwork::update_phone() in /home4/lifegoal/public_html/Presso_cafe/application/modules/admin/controllers/Teamwork.php on line 178
+[23-Feb-2019 20:40:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home4/lifegoal/public_html/Presso_cafe/application/modules/admin/controllers/Orders.php on line 301
+[05-Mar-2019 14:37:01 Africa/Cairo] PHP Fatal error:  Call to a member function from() on null in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Search.php on line 103
+[06-Mar-2019 16:49:30 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/views/search/inventory.php on line 251
+[06-Mar-2019 17:29:13 Africa/Cairo] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home4/lifegoal/public_html/Presso_cafe/application/models/Data.php on line 88
+[11-Mar-2019 01:51:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Orders.php on line 468
+[11-Mar-2019 01:51:24 Africa/Cairo] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Orders.php on line 468
+[11-Mar-2019 01:51:29 Africa/Cairo] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Orders.php on line 468
+[19-Mar-2019 21:50:31 Africa/Cairo] PHP Fatal error:  Call to a member function update() on null in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Orders.php on line 443
+[24-Mar-2019 14:46:51 Africa/Cairo] PHP Fatal error:  Can't use method return value in write context in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/views/orders/print_pdf.php on line 5
+[06-May-2019 03:43:41 Africa/Cairo] PHP Fatal error:  Call to undefined method CI_Session::userdate() in /home4/lifegoal/public_html/Presso_cafe/design/inc/sidebar.php on line 15
+[10-May-2019 10:18:53 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/System_cp.php on line 495
+[10-May-2019 10:18:57 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/System_cp.php on line 495
+[08-Jul-2019 10:05:20 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:23 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:23 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:34 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:34 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:58 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:58 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:59 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:59 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:59 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:05:59 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:06:00 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 294
+[08-Jul-2019 10:10:52 Africa/Cairo] PHP Fatal error:  Call to undefined method Data::get_tab_row() in /home4/lifegoal/public_html/Presso_cafe/application/modules/pos/controllers/Teamwork.php on line 295
