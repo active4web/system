@@ -43,47 +43,6 @@ $this->load->view('task');
         }
 
 
-public function overview1(){
-$str=$this->input->get("str");
-if(strlen($str)<255){
-$chars = str_split($str);
-    $counts = array_count_values($chars);
-for($i=0; $i<count($chars); $i++){
-    $arr=array();
-    if($counts[$chars[$i]]<2){
-      if($i==0){$after="(none)";}else{$after="(".$chars[$i-1].")";}
-      if(($i+1)==count($chars)){$before="(none)";}else{$before="(".$chars[$i+1].")";}
-      $t=$chars[$i].":".$counts[$chars[$i]]." before ".$before." "." after ".$after."<br>";
-    }
-    else {
 
-        $arr=array_keys($chars,$chars[$i]);
-
-for($j=0; $j<count($arr); $j++){
-     if($j==0){$after="(none)";}else{$after="(".$arr[$j-1].")";}
-      if(($j+1)==count($arr)){$before="(none)";}else{$before="(".$arr[$j+1].")";}
-            $t=$chars[$i].":".$counts[$chars[$i]]." before ".$before." "." after ".$after."<br>";
-
-
-}
-         }
-    
-      echo $t;
-
-
-}
-}
-
-else {
-  $this->session->set_flashdata('msg',"error");
-  $this->session->mark_as_flash('msg');;
-   redirect(base_url().'pos/task', 'refresh');
-
-}
-
-
- 
-
-  }
-
+        
 }
